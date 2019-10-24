@@ -1,7 +1,7 @@
 # Overview
 
 This OS is from the course material of `A Curious Course on Coroutines and Concurrency`, which was designed by David Beazley.
-Copyright (C) 2009, All Rights Reserved David Beazley ![](http://www.dabeaz.com)
+Copyright (C) 2009, All Rights Reserved David Beazley [http://www.dabeaz.com](http://www.dabeaz.com)
 
 # multi-task OS intro
 
